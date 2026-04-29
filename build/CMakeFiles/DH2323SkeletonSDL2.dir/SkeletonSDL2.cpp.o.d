@@ -852,7 +852,7 @@ CMakeFiles/DH2323SkeletonSDL2.dir/SkeletonSDL2.cpp.o: \
   /Users/apple/Desktop/KTH_Courses/DH2323_Computer\ Graphics/Lab3/DH2323Lab3/glm/glm/./core/func_integer.inl \
   /Users/apple/Desktop/KTH_Courses/DH2323_Computer\ Graphics/Lab3/DH2323Lab3/glm/glm/./core/func_noise.hpp \
   /Users/apple/Desktop/KTH_Courses/DH2323_Computer\ Graphics/Lab3/DH2323Lab3/glm/glm/./core/func_noise.inl \
-  /Users/apple/Desktop/KTH_Courses/DH2323_Computer\ Graphics/Lab3/DH2323Lab3/SDL2Auxiliary/SDL2auxiliary.h \
+  /Users/apple/Desktop/KTH_Courses/DH2323_Computer\ Graphics/Lab3/DH2323Lab3/SDL2Auxiliary/SDL2Auxiliary.h \
   /opt/homebrew/include/SDL2/SDL.h /opt/homebrew/include/SDL2/SDL_main.h \
   /opt/homebrew/include/SDL2/SDL_stdinc.h \
   /opt/homebrew/include/SDL2/SDL_config.h \
