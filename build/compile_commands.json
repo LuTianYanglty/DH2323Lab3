@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/SDL2 -I\"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/glm\" -I\"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SDL2Auxiliary\" -O2 -Wall -g -std=gnu++11 -arch arm64 -o CMakeFiles/DH2323SkeletonSDL2.dir/SkeletonSDL2.cpp.o -c \"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SkeletonSDL2.cpp\"",
+  "file": "/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SkeletonSDL2.cpp",
+  "output": "CMakeFiles/DH2323SkeletonSDL2.dir/SkeletonSDL2.cpp.o"
+},
+{
+  "directory": "/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/SDL2 -I\"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/glm\" -I\"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SDL2Auxiliary\" -O2 -Wall -g -std=gnu++11 -arch arm64 -o CMakeFiles/DH2323SkeletonSDL2.dir/SDL2Auxiliary/SDL2Auxiliary.cpp.o -c \"/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SDL2Auxiliary/SDL2Auxiliary.cpp\"",
+  "file": "/Users/apple/Desktop/KTH_Courses/DH2323_Computer Graphics/Lab3/DH2323Lab3/SDL2Auxiliary/SDL2Auxiliary.cpp",
+  "output": "CMakeFiles/DH2323SkeletonSDL2.dir/SDL2Auxiliary/SDL2Auxiliary.cpp.o"
+}
+]

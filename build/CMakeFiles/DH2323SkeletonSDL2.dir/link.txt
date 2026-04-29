@@ -1,0 +1,1 @@
+/usr/bin/clang++ -O2 -Wall -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/DH2323SkeletonSDL2.dir/SkeletonSDL2.cpp.o CMakeFiles/DH2323SkeletonSDL2.dir/SDL2Auxiliary/SDL2Auxiliary.cpp.o -o DH2323SkeletonSDL2  /opt/homebrew/lib/libSDL2.dylib -framework Cocoa /opt/homebrew/lib/libSDL2main.a

@@ -1,0 +1,7 @@
+{
+    "cmake.debugConfig": {
+        "type": "lldb",
+        "request": "launch",
+        "cwd": "${workspaceFolder}"
+    }
+}
